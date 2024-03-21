@@ -1,2 +1,2 @@
 # SVM-
-This predicts predicts heart disease using SVM. It preprocesses data, trains the SVM classifier, evaluates its accuracy, predicts disease for a sample input, and visualizes data relationships using Seaborn.
+This project utilizes Support Vector Machines (SVM) to predict heart disease based on patient attributes. After preprocessing, the dataset is split for training and testing. The SVM model, employing a linear kernel, achieves accurate predictions. A pairplot visualization highlights feature relationships. This tool aids in early heart disease detection, enhancing patient care.
